@@ -1,3 +1,3 @@
 $(function(){
-  $('#text').show();
+  $('#text').show(); //.SHOW() POUR FAIRE APPARAITRE
 });
